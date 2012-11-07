@@ -1,0 +1,12 @@
+{
+  "name": "ExpressParameterTester",
+  "description": "Shows you how Express interprets your HTTP parameters.",
+  "version": "0.0.0",
+  "homepage": "http://expressparams.heroku.com",
+  "engines": {
+    "node": ">=0.6.8"
+  },
+  "dependencies": {
+    "express": "=2.5.4"
+  }
+}
